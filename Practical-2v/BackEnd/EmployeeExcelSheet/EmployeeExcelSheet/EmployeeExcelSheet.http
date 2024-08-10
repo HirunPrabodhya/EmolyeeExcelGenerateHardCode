@@ -1,0 +1,6 @@
+@EmployeeExcelSheet_HostAddress = http://localhost:5101
+
+GET {{EmployeeExcelSheet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

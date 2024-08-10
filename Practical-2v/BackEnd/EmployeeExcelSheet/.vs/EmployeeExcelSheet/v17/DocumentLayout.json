@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Practicals\\Practical-2v\\BackEnd\\EmployeeExcelSheet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17284443-4E43-4D39-8B20-22D18F6F952E}|EmployeeExcelSheet\\EmployeeExcelSheet.csproj|e:\\practicals\\practical-2v\\backend\\employeeexcelsheet\\employeeexcelsheet\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17284443-4E43-4D39-8B20-22D18F6F952E}|EmployeeExcelSheet\\EmployeeExcelSheet.csproj|solutionrelative:employeeexcelsheet\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelController.cs",
+              "DocumentMoniker": "E:\\Practicals\\Practical-2v\\BackEnd\\EmployeeExcelSheet\\EmployeeExcelSheet\\Controllers\\ExcelController.cs",
+              "RelativeDocumentMoniker": "EmployeeExcelSheet\\Controllers\\ExcelController.cs",
+              "ToolTip": "E:\\Practicals\\Practical-2v\\BackEnd\\EmployeeExcelSheet\\EmployeeExcelSheet\\Controllers\\ExcelController.cs",
+              "RelativeToolTip": "EmployeeExcelSheet\\Controllers\\ExcelController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAArwCIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:27:48.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
